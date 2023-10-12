@@ -1,0 +1,100 @@
+body
+{
+	margin: auto;
+	width: 90%;
+	background-color: #930637;
+	color: #ffffff
+	
+}
+
+
+header
+{
+	width: 100%;
+	background-color: #930637;
+	font-family: Verdana, Geneva, Arial, Helvetica, Sans-Serif;
+	color: #FBFF00;
+	text-align: center;
+	font-size: 120%;
+	padding-top: 2em;
+	padding-bottom: 2em;
+}
+h1{
+	  font-size: 250%;
+      font-family: Verdana, Geneva, Arial, Helvetica, Sans-Serif;
+}
+h2
+{
+   color: #FFFFFF;
+   text-align: center;
+   font-size: 170%;
+}
+
+main {
+	width: 100%;
+	
+	}
+	
+section {
+	width: 100%;
+	font-size: 110%;
+	background-color: #FFEFC0;
+	float: left;
+	color: #000000;
+	text-align: center;
+	font-family: Verdana, Geneva, Arial, Helvetica, Sans-Serif;
+	
+}
+.fotoproducto {
+	width: 25%;
+	font-size: 80%;
+	height: 31em;
+	background-color: #fff;
+	float: left;
+	color: #000000;
+	padding-left: 2em;
+	padding-top: 1em;
+	margin: 0.5em;
+	
+}
+
+
+.fotoproducto img {	
+	border-radius: 0.5em;
+	width: 80%;
+	float: center; 
+	}
+
+nav
+{ 
+   font-family: Verdana, Geneva, Arial, Helvetica, Sans-Serif;
+   color: #FFFFFF;
+   background-color: #FDB400;
+   width: 100%;
+   text-align: center;
+   padding-top: 1em;
+   padding-bottom: 1em;
+   
+}
+
+nav a:link,a:visited,a:hover,a:active { 
+	color: #FFFFFF;
+	border: 1px #FAB006 solid;
+	background-color: #930637;
+	padding: 0.5em;
+	text-decoration: none;
+	}
+
+.actual {
+	font-weight: bold;
+		}
+	
+footer {
+	text-align: center;
+    color: #FFFFFF;
+    background-color: #FDB400;
+    width: 100%;
+    clear: both;
+    height: 2em;
+	font-size: 130%;
+	
