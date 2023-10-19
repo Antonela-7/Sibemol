@@ -13,7 +13,7 @@ header
 	width: 100%;
 	background-color: #930637;
 	font-family: Verdana, Geneva, Arial, Helvetica, Sans-Serif;
-	color: #FBFF00;
+	color: #00FFE0;
 	text-align: center;
 	font-size: 120%;
 	padding-top: 2em;
@@ -23,7 +23,7 @@ header
 
 h2
 {
-   color: #000000;
+   color: #F7FF00;
    text-align: center;
 }
 
@@ -35,7 +35,7 @@ main {
 section {
 	width: 100%;
 	font-size: 100%;
-	background-color: #FFEFC0;
+	background-color: #C7D87A;
 	float: left;
 	color: #000;
 	text-align: center;
